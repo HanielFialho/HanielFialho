@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Haniel Fialho</h1>
 <h3 align="center">Um entusiastas de Java & Java Bukkit</h3>
 
-- 🔭 no momento estou trabalhando [Hyzard](Hyzard.com)
+- 🔭 No momento estou trabalhando em Core para o Minecraft
 
-- 🌱 atualmente estou aprendendo **Java Bukkit**
+- 🌱 Atualmente estou aprendendo **Java Bukkit**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/HanielFialho](https://github.com/HanielFialho)
 
