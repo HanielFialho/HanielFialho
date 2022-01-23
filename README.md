@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Haniel Fialho</h1>
 <h3 align="center">Um entusiastas de Java & Java Bukkit</h3>
 
-- 🔭 Sombore Hel
+- 🔭 Não faço a mínima ideia do que fazer
 
 - 🌱 Atualmente estou aprendendo **Java Bukkit**
 
