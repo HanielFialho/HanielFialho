@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Haniel Fialho</h1>
-<h3 align="center">Um entusiastas de Java & Java Bukkit</h3>
+<h3 align="center">Um entusiastas de Java</h3>
 
 - 🔭 Não faço a mínima ideia do que fazer
 
