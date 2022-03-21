@@ -7,9 +7,9 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis algum lugar bagunçado da minha área de trabalho.
 
-- 📝 Escrevo regularmente artigos sobre coisas random
+- 📝 Escrevo regularmente artigos sobre coisas aleatórias.
 
-- 💬 Pergunte-me sobre **Coisas da Vida**
+- 💬 Minha motivação de crescer profissionalmente e poder construir uma maravilhosa vida com minha namorada.
 
 - 📫 Email: **beedfialho@gmail.com**
 
