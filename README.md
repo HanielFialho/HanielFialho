@@ -9,7 +9,7 @@
 
 - 📝 Escrevo regularmente artigos sobre coisas aleatórias.
 
-- 💬 Minha motivação de crescer profissionalmente e poder construir uma maravilhosa vida com minha namorada.
+- 💬 Minha motivação de crescer profissionalmente e poder construir uma maravilhosa vida
 
 - 📫 Email: **beedfialho@gmail.com**
 
